@@ -1,0 +1,12 @@
+.TEME{
+    text-align: center;
+   
+
+}
+.temes{
+float: left;
+width: 33%;
+}
+.clearfix{
+    clear: left;
+}
